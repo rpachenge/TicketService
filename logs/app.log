@@ -1,0 +1,29 @@
+2019-04-25 23:50:31 INFO  TicketServiceImpl:51 - Invalid input arguments
+2019-04-25 23:50:31 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-25 23:52:19 INFO  TicketServiceImpl:51 - Invalid input arguments
+2019-04-25 23:53:57 INFO  TicketServiceImpl:42 - Reservation for seatHoldId:1 Customer Email: test@gmail.com is successful false
+2019-04-25 23:55:06 INFO  TicketServiceImpl:42 - Reservation for seatHoldId:1 Customer Email: test@gmail.com is successful false
+2019-04-25 23:57:12 INFO  TicketServiceImpl:42 - Reservation for seatHoldId:1 Customer Email: test@gmail.com is successful true
+2019-04-26 00:03:58 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:04:28 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:04:28 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:06:33 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:06:33 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:06:33 INFO  TicketServiceImpl:51 - Invalid input arguments
+2019-04-26 00:06:33 INFO  TicketServiceImpl:42 - Reservation for seatHoldId:1 Customer Email: test@gmail.com is successful true
+2019-04-26 00:08:00 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:08:00 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:08:00 INFO  TicketServiceImpl:51 - Invalid input arguments
+2019-04-26 00:08:00 INFO  TicketServiceImpl:51 - Invalid input arguments
+2019-04-26 00:08:00 INFO  TicketServiceImpl:42 - Reservation for seatHoldId:1 Customer Email: test@gmail.com is successful true
+2019-04-26 00:13:52 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:13:52 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:13:52 INFO  TicketServiceImpl:51 - Invalid input arguments
+2019-04-26 00:13:52 INFO  TicketServiceImpl:51 - Invalid input arguments
+2019-04-26 00:13:52 INFO  TicketServiceImpl:42 - Reservation for seatHoldId:1 Customer Email: test@gmail.com is successful true
+2019-04-26 00:20:47 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:20:47 INFO  TicketServiceImpl:37 - Invalid input arguments
+2019-04-26 00:20:47 INFO  TicketServiceImpl:56 - For total seats :1 Customer Email: test@gmail.com  is on hold. Please reserve before it expires.
+2019-04-26 00:20:47 INFO  TicketServiceImpl:51 - Invalid input arguments
+2019-04-26 00:20:47 INFO  TicketServiceImpl:51 - Invalid input arguments
+2019-04-26 00:20:47 INFO  TicketServiceImpl:42 - Reservation for seatHoldId:1 Customer Email: test@gmail.com is successful true
